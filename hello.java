@@ -11,6 +11,9 @@ public class hello {
 	private void sayhello()
 	{
 	System.out.println("Hello!");
+	System.out.println("Hello!");
+	System.out.println("Hello!");
+	System.out.println("Hello!");
 	}
 
 }
